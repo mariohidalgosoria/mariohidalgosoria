@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariohidalgosoria
 - 👀 I’m a physicist interested in modelling and simulating complex phenomena: from intracellular transport to fluctuations in financial markets.  
-- 🌱 I’m currently learning how to link Laplace diffusion (diffusing diffusivity/hetroscedasticity) to interacting particle systems. 
+- 🌱 I’m currently learning how to link transport and dynamics to clustering and mass formation in interacting particle systems. 
 - 💞️ I’m looking to collaborate on projects that involve new algorithms for characterizing time series using deep/machine learning.  
 - 📫 You can reach me at mariohidalgosoria@gmail.com
 
